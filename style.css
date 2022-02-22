@@ -1,0 +1,32 @@
+body{
+    border: 10px groove hotpink;
+}
+.external{
+    color: red;
+    border: 15px solid blueviolet;
+    background-color: aqua;
+    height: 400px;
+    width: 400px;
+    margin: 20px;
+    padding: 10px;
+    /* border-radius: 50%; */
+}
+
+.one{
+    background-color: red;
+    border: 10px groove yellow;
+    width: 200px;
+    height: 200px;
+}
+
+#two{
+    background-color: green;
+}
+.circle{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 5px solid greenyellow;
+    background-color: hotpink;
+
+}
